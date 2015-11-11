@@ -1,0 +1,32 @@
+{
+  "name": "taobao-quick-checkout",
+  "private": true,
+  "homepage": "https://github.com/UserScript/Taobao-Quick-Checkout",
+  "authors": [
+    "cssmagic <cssmagic.cn@gmail.com>"
+  ],
+  "description": "[UserScript] To automatically complete some operations in Taobao's checkout process.",
+  "moduleType": [
+    "userscript"
+  ],
+  "keywords": [
+    "taobao",
+    "tmall"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "**.sh",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "gulpfile.js",
+    "test",
+    "doc",
+    "demo"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "zepto.js": "1.*"
+  }
+}
